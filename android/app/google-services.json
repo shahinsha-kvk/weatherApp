@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752402761656",
+    "project_id": "primalcodetaskweather",
+    "storage_bucket": "primalcodetaskweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752402761656:android:126253377e416f742e314d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnf66oihTtB-tvkP2b1c-G_Ts9k2n8gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
